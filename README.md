@@ -1,6 +1,6 @@
 # React Portfolio
 
-A single-page application to view a deployed React portfolio of work samples.
+A single-page application to view a deployed React portfolio of work samples, resume, and contact information.
 
 ## Clone the repository
 
